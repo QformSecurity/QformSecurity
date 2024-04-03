@@ -59,4 +59,4 @@ QformSecure is released under the [MIT License](https://opensource.org/licenses/
 
 ## Contact
 
-For any inquiries or feedback, please contact our team at support-qformsecure@outlook.com
+For any inquiries or feedback, please contact our team at qformsecure.us@outlook.com
