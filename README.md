@@ -1,6 +1,6 @@
 # QformSecure
 
-QformSecure is a Windows GUI application that protects personal/company computers by providing extra security to the CPU, Memory, and Network Connections.
+QformSecure is personal developed Windows GUI application that protects personal/company computers by providing extra security to the CPU, Memory, and Network Connections.
 
 ## Features
 
